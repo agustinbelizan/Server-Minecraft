@@ -1,0 +1,13 @@
+name = "Mooseman"
+filename = "mooseman-fabric-1.0.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HzeQGf0P/versions/HVcO53Mt/mooseman-fabric-1.0.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "1071c592de6cc2638424fbc2d1521a250af15a573b8b46808574c7134914f1509aecdb4e885156e20bf7d83fd011ea31344b8a789768fd28fad76eadd0a2b30a"
+
+[update]
+[update.modrinth]
+mod-id = "HzeQGf0P"
+version = "HVcO53Mt"

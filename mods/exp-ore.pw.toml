@@ -1,0 +1,13 @@
+name = "Exp Ore"
+filename = "ExpOre-26.1.2-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1HwCh5vX/versions/4EAbDlWR/ExpOre-26.1.2-0.1.jar"
+hash-format = "sha512"
+hash = "019ab1d76c229c858ddc807f4141e48598ca47b838de54059c3e5085caf69fe813089ef0c83453f618782c38258d22f04b73ca78300db58adf19ef328b283069"
+
+[update]
+[update.modrinth]
+mod-id = "1HwCh5vX"
+version = "4EAbDlWR"

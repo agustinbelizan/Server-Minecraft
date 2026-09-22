@@ -1,0 +1,93 @@
+VERSION|3
+ERA|overworld|Overworld Era
+ERA|nether|Nether Era
+ERA|end|End Era
+EVENT|16|auto_advancement_betterend:root|Advancement completed: BetterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:root|-|0|-
+EVENT|16|auto_advancement_betternether:root|Advancement completed: BetterNether|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betternether:root|-|0|-
+EVENT|16|auto_advancement_travelersbackpack:root|Advancement completed: Guía de la Mochila del Viajero|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:root|-|0|-
+EVENT|16|auto_advancement_minecraft:lighterend/root|Advancement completed: LighterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:lighterend/root|-|0|-
+EVENT|16|auto_advancement_mca:root|Advancement completed: Minecraft Comes Alive|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|mca:root|-|0|-
+EVENT|16|auto_advancement_biomesoplenty:biomesoplenty/root|Advancement completed: Biomes O' Plenty|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|biomesoplenty:biomesoplenty/root|-|0|-
+EVENT|16|auto_advancement_create:root|Advancement completed: Welcome to Create|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|create:root|-|0|-
+EVENT|16|auto_advancement_farmersdelight:main/root|Advancement completed: Farmer's Delight|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/root|-|0|-
+EVENT|17|auto_death_341405754305666_0|First death|event.vanilladaytimecounter.auto.first_death|First death|-|-|0|-
+EVENT|17|auto_advancement_minecraft:adventure/root|Advancement completed: Aventura|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/root|-|0|-
+EVENT|21|auto_advancement_minecraft:adventure/sleep_in_bed|Advancement completed: Dulces sueños|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/sleep_in_bed|-|0|-
+EVENT|22|auto_advancement_minecraft:husbandry/root|Advancement completed: Prosperidad|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:husbandry/root|-|0|-
+EVENT|22|auto_death_345139032933500_0|Death|event.vanilladaytimecounter.auto.death|Death|-|-|0|-
+EVENT|22|auto_advancement_minecraft:story/root|Advancement completed: Minecraft|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:story/root|-|0|-
+EVENT|23|auto_death_345662643119708_1|Death|event.vanilladaytimecounter.auto.death|Death|-|-|0|-
+EVENT|23|auto_advancement_farmersdelight:main/get_fd_seed|Advancement completed: Frutos de la naturaleza|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/get_fd_seed|-|0|-
+MATERIAL|16|mca:book_romance|1
+MATERIAL|17|minecraft:wheat_seeds|1
+MATERIAL|17|minecraft:hay_block|1
+MATERIAL|17|minecraft:compass|1
+MATERIAL|21|minecraft:rose_bush|2
+MATERIAL|21|minecraft:dirt|33
+MATERIAL|21|comforts:sleeping_bag_white|1
+MATERIAL|22|comforts:sleeping_bag_white|1
+MATERIAL|22|minecraft:cooked_beef|15
+MATERIAL|22|minecraft:oak_log|14
+MATERIAL|22|minecraft:compass|1
+MATERIAL|22|minecraft:wooden_pickaxe|1
+MATERIAL|22|minecraft:oak_planks|36
+MATERIAL|22|minecraft:crafting_table|1
+MATERIAL|22|minecraft:stick|4
+MATERIAL|22|minecraft:wooden_axe|1
+MATERIAL|22|minecraft:wooden_shovel|1
+MATERIAL|22|minecraft:porkchop|14
+MATERIAL|22|minecraft:rose_bush|1
+MATERIAL|22|minecraft:chicken|4
+MATERIAL|22|minecraft:feather|3
+MATERIAL|22|minecraft:egg|1
+MATERIAL|22|minecraft:moss_carpet|3
+MATERIAL|22|minecraft:oak_sapling|2
+MATERIAL|22|minecraft:white_wool|5
+MATERIAL|22|minecraft:mutton|6
+MATERIAL|23|comforts:sleeping_bag_white|1
+MATERIAL|23|minecraft:compass|1
+MATERIAL|23|minecraft:wheat_seeds|5
+MATERIAL|23|minecraft:dirt|12
+MATERIAL|23|minecraft:oak_log|3
+MATERIAL|23|minecraft:porkchop|10
+MATERIAL|23|minecraft:pumpkin|5
+MATERIAL|23|minecraft:firefly_bush|2
+MATERIAL|23|minecraft:feather|1
+MATERIAL|23|minecraft:chicken|1
+MATERIAL|23|minecraft:beef|7
+MATERIAL|23|minecraft:acacia_log|7
+MATERIAL|23|minecraft:leather|1
+MATERIAL|23|minecraft:moss_block|1
+MATERIAL|23|mca:book_romance|1
+MATERIAL|23|minecraft:emerald|5
+MATERIAL|23|farmersdelight:tomato_seeds|4
+MATERIAL|23|farmersdelight:cabbage_seeds|7
+MATERIAL|23|minecraft:acacia_sapling|6
+MATERIAL|23|minecraft:bread|9
+MATERIAL|23|minecraft:saddle|2
+MATERIAL|24|comforts:sleeping_bag_white|1
+DEATH|17
+DEATH|22
+DEATH|23
+ADVANCEMENT|16|betterend:root
+ADVANCEMENT|16|betternether:root
+ADVANCEMENT|16|travelersbackpack:root
+ADVANCEMENT|16|minecraft:lighterend/root
+ADVANCEMENT|16|mca:root
+ADVANCEMENT|16|biomesoplenty:biomesoplenty/root
+ADVANCEMENT|16|create:root
+ADVANCEMENT|16|farmersdelight:main/root
+ADVANCEMENT|17|minecraft:adventure/root
+ADVANCEMENT|21|minecraft:adventure/sleep_in_bed
+ADVANCEMENT|22|minecraft:husbandry/root
+ADVANCEMENT|22|minecraft:story/root
+ADVANCEMENT|23|farmersdelight:main/get_fd_seed
+WEATHER|16|0|0
+WEATHER|17|1|0
+WEATHER|18|0|0
+WEATHER|19|0|0
+WEATHER|20|0|0
+WEATHER|21|0|0
+WEATHER|22|0|0
+WEATHER|23|0|0
+WEATHER|24|0|0

@@ -1,0 +1,13 @@
+name = "MCA Reborn"
+filename = "mca-fabric-8.1.11+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W98a849/versions/Kzv4GU7X/mca-fabric-8.1.11%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "c061d19de3851d1f869c16588f27429d7477a7addeb5334769295371dc1c6a1b3274109bb7c317ed9d1e2ee51e9a8f156dbc8ae97471f0a95da2f6eced220ef7"
+
+[update]
+[update.modrinth]
+mod-id = "1W98a849"
+version = "Kzv4GU7X"

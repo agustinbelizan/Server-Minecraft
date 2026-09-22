@@ -1,0 +1,23 @@
+VERSION|3
+ERA|overworld|Overworld Era
+ERA|nether|Nether Era
+ERA|end|End Era
+EVENT|0|auto_advancement_biomesoplenty:biomesoplenty/root|Advancement completed: Biomes O' Plenty|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|biomesoplenty:biomesoplenty/root|-|0|-
+EVENT|0|auto_advancement_create:root|Advancement completed: Welcome to Create|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|create:root|-|0|-
+EVENT|0|auto_advancement_travelersbackpack:root|Advancement completed: Guía de la Mochila del Viajero|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:root|-|0|-
+EVENT|0|auto_advancement_mca:root|Advancement completed: Minecraft Comes Alive|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|mca:root|-|0|-
+EVENT|0|auto_advancement_minecraft:adventure/root|Advancement completed: Aventura|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/root|-|0|-
+EVENT|0|auto_advancement_betterend:root|Advancement completed: BetterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:root|-|0|-
+EVENT|0|auto_advancement_betternether:root|Advancement completed: BetterNether|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betternether:root|-|0|-
+EVENT|0|auto_advancement_minecraft:lighterend/root|Advancement completed: LighterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:lighterend/root|-|0|-
+EVENT|0|auto_advancement_farmersdelight:main/root|Advancement completed: Farmer's Delight|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/root|-|0|-
+ADVANCEMENT|0|biomesoplenty:biomesoplenty/root
+ADVANCEMENT|0|create:root
+ADVANCEMENT|0|travelersbackpack:root
+ADVANCEMENT|0|mca:root
+ADVANCEMENT|0|minecraft:adventure/root
+ADVANCEMENT|0|betterend:root
+ADVANCEMENT|0|betternether:root
+ADVANCEMENT|0|minecraft:lighterend/root
+ADVANCEMENT|0|farmersdelight:main/root
+WEATHER|0|0|0

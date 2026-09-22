@@ -1,0 +1,13 @@
+name = "DayTime Counter"
+filename = "vanilladaytimecounter-1.4.5+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DinbWefJ/versions/heOlr6wd/vanilladaytimecounter-1.4.5%2B26.1.jar"
+hash-format = "sha512"
+hash = "42e55f163a40cfe8eebfedbced513f278391329962fc312bc852b00c845bfcc106a67d265559616816cbb68d88cb00aaa8f5ad64033230267e2167322d333a2e"
+
+[update]
+[update.modrinth]
+mod-id = "DinbWefJ"
+version = "heOlr6wd"

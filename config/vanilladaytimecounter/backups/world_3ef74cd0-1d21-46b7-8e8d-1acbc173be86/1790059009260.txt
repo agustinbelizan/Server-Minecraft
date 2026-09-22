@@ -1,0 +1,34 @@
+VERSION|3
+ERA|overworld|Overworld Era
+ERA|nether|Nether Era
+ERA|end|End Era
+EVENT|0|auto_advancement_betterend:root|Advancement completed: BetterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:root|-|0|-
+EVENT|0|auto_advancement_betternether:root|Advancement completed: BetterNether|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betternether:root|-|0|-
+EVENT|0|auto_advancement_travelersbackpack:root|Advancement completed: Guía de la Mochila del Viajero|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:root|-|0|-
+EVENT|0|auto_advancement_minecraft:lighterend/root|Advancement completed: LighterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:lighterend/root|-|0|-
+EVENT|0|auto_advancement_biomesoplenty:biomesoplenty/root|Advancement completed: Biomes O' Plenty|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|biomesoplenty:biomesoplenty/root|-|0|-
+EVENT|0|auto_advancement_mca:root|Advancement completed: Minecraft Comes Alive|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|mca:root|-|0|-
+EVENT|0|auto_advancement_create:root|Advancement completed: Welcome to Create|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|create:root|-|0|-
+EVENT|0|auto_advancement_farmersdelight:main/root|Advancement completed: Farmer's Delight|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/root|-|0|-
+EVENT|0|auto_advancement_betterend:all_elytras|Advancement completed: Airshow|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:all_elytras|-|0|-
+EVENT|0|auto_advancement_minecraft:end/elytra|Advancement completed: Al infinito... ¡y más allá!|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:end/elytra|-|0|-
+EVENT|0|auto_advancement_minecraft:lighterend/acquire_silk_elytra|Advancement completed: Earn Your Wings|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:lighterend/acquire_silk_elytra|-|0|-
+MATERIAL|0|mca:book_romance|1
+MATERIAL|0|betterend:elytra_armored|2
+MATERIAL|0|betterend:elytra_crystalite|1
+MATERIAL|0|minecraft:elytra|1
+MATERIAL|0|lighterend:silk_elytra|1
+MATERIAL|0|minecraft:wheat_seeds|2
+MATERIAL|0|minecraft:melon_seeds|2
+ADVANCEMENT|0|betterend:root
+ADVANCEMENT|0|betternether:root
+ADVANCEMENT|0|travelersbackpack:root
+ADVANCEMENT|0|minecraft:lighterend/root
+ADVANCEMENT|0|biomesoplenty:biomesoplenty/root
+ADVANCEMENT|0|mca:root
+ADVANCEMENT|0|create:root
+ADVANCEMENT|0|farmersdelight:main/root
+ADVANCEMENT|0|betterend:all_elytras
+ADVANCEMENT|0|minecraft:end/elytra
+ADVANCEMENT|0|minecraft:lighterend/acquire_silk_elytra
+WEATHER|0|0|0

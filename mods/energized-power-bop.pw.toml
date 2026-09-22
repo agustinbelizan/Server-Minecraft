@@ -1,0 +1,13 @@
+name = "Energized Power - Biomes O' Plenty"
+filename = "energizedpowerbop-3.0.0+26.1.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pFrEfXHl/versions/igG9x5WT/energizedpowerbop-3.0.0%2B26.1.x-fabric.jar"
+hash-format = "sha512"
+hash = "746eb27cac9b3da541869677a2c6033f68598bc2c43d50b834db3897f281bfef82d6eababe5a7102831a0a9206ea35915e6a4f925e9769b55e563e515a775140"
+
+[update]
+[update.modrinth]
+mod-id = "pFrEfXHl"
+version = "igG9x5WT"

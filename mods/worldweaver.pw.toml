@@ -1,0 +1,13 @@
+name = "World Weaver"
+filename = "worldweaver-26.101.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RiN8rDVs/versions/MSzkHfJp/worldweaver-26.101.2.jar"
+hash-format = "sha512"
+hash = "20a2f2d5989966b3e54724e9df2f9061d97fb79a41cc4852a12492c43d5a1629fb08245c67279dc57b012234d5379eec7238becf3f9cb7ba047c256ced68112d"
+
+[update]
+[update.modrinth]
+mod-id = "RiN8rDVs"
+version = "MSzkHfJp"

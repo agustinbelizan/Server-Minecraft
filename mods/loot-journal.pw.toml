@@ -1,0 +1,13 @@
+name = "Loot Journal: Pickup Notifier"
+filename = "loot_journal-fabric-26.1-6.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/IU2OucKD/loot_journal-fabric-26.1-6.2.1.jar"
+hash-format = "sha512"
+hash = "5278d05659f3c4a8cec8fb27f3dc55cf3841c5b66263cb46273512f8b95aa0d1a3850b4fcca285a719682e952e428969d7c21cfb8d6a449095253fc191f8ca48"
+
+[update]
+[update.modrinth]
+mod-id = "OJ6ZYz5L"
+version = "IU2OucKD"

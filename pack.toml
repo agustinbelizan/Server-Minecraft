@@ -1,0 +1,13 @@
+name = "Agutsin"
+author = "Agustin Belizan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "80f5a85766647ff68d2fd16baa2d9ae2545f1941764451884969f2b7a183a362"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.1.2"

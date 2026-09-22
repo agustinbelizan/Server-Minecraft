@@ -1,0 +1,13 @@
+name = "Room For Two"
+filename = "roomfortwo-fabric-26.1.2-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YZlvzIFq/versions/oXGU4pyb/roomfortwo-fabric-26.1.2-0.3.0.jar"
+hash-format = "sha512"
+hash = "0a5976020b872bac6ce314da15cccf6eb2d2d6c5d14d0b320728cc3fbc796ec0397260ca6f04870aac96d33446631f335f714fcce89785ea691203ad2d3309fe"
+
+[update]
+[update.modrinth]
+mod-id = "YZlvzIFq"
+version = "oXGU4pyb"

@@ -1,0 +1,10 @@
+generate_biomes: true
+generate_ores: false
+play_biome_music: true
+end_gravity: 0.3
+disable_end_gravity_while_flying: false
+end_plants_only_grow_in_the_end: true
+music_discs_found_in_end_cities: true
+customize_end_fishing: true
+bonemealing_underwater_in_the_end_produces_end_vegetation: true
+spawn_in_end: false

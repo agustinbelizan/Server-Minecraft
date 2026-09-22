@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"betterend:elytra_armored"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:elytra"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"energizedpower:elite_auto_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"energizedpower:advanced_auto_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"energizedpower:auto_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:gleaming_salad"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:stuffed_pumpkin"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

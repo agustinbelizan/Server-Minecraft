@@ -1,0 +1,13 @@
+name = "Health Bars"
+filename = "HealthBars-v26.1.1-mc26.1.x-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A3VSiTms/versions/DeCFQBIa/HealthBars-v26.1.1-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "2d3ab562ebfff358742485957b6ba5003ecf34b2cdc4387f532b3a4d0aeb22ad2afbbd6d68ce4559baaddbb406bdab0085f03eed6d4bb1ed787d7395b73f9356"
+
+[update]
+[update.modrinth]
+mod-id = "A3VSiTms"
+version = "DeCFQBIa"

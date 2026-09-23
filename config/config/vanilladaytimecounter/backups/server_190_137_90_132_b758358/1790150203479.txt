@@ -1,0 +1,91 @@
+VERSION|3
+ERA|overworld|Overworld Era
+ERA|nether|Nether Era
+ERA|end|End Era
+EVENT|39|auto_advancement_farmersdelight:main/get_fd_seed|Advancement completed: Frutos de la naturaleza|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/get_fd_seed|-|0|-
+EVENT|39|auto_advancement_minecraft:adventure/root|Advancement completed: Aventura|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/root|-|0|-
+EVENT|39|auto_advancement_betterend:root|Advancement completed: BetterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:root|-|0|-
+EVENT|39|auto_advancement_minecraft:adventure/kill_a_mob|Advancement completed: Cazamonstruos|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/kill_a_mob|-|0|-
+EVENT|39|auto_advancement_craemon:craftable_elytra|Advancement completed: Craftable Elytra|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|craemon:craftable_elytra|-|0|-
+EVENT|39|auto_advancement_minecraft:story/mine_stone|Advancement completed: La Edad de Piedra|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:story/mine_stone|-|0|-
+EVENT|39|auto_advancement_betternether:root|Advancement completed: BetterNether|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betternether:root|-|0|-
+EVENT|39|auto_advancement_minecraft:story/root|Advancement completed: Minecraft|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:story/root|-|0|-
+EVENT|39|auto_advancement_create:root|Advancement completed: Welcome to Create|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|create:root|-|0|-
+EVENT|39|auto_advancement_craemon:main|Advancement completed: Craemon's Datapacks|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|craemon:main|-|0|-
+EVENT|39|auto_advancement_travelersbackpack:root|Advancement completed: Guía de la Mochila del Viajero|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:root|-|0|-
+EVENT|39|auto_advancement_craemon:crafting|Advancement completed: Crafting|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|craemon:crafting|-|0|-
+EVENT|39|auto_advancement_minecraft:husbandry/root|Advancement completed: Prosperidad|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:husbandry/root|-|0|-
+EVENT|39|auto_advancement_minecraft:adventure/sleep_in_bed|Advancement completed: Dulces sueños|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/sleep_in_bed|-|0|-
+EVENT|39|auto_advancement_biomesoplenty:biomesoplenty/root|Advancement completed: Biomes O' Plenty|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|biomesoplenty:biomesoplenty/root|-|0|-
+EVENT|39|auto_advancement_mca:root|Advancement completed: Minecraft Comes Alive|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|mca:root|-|0|-
+EVENT|39|auto_advancement_farmersdelight:main/root|Advancement completed: Farmer's Delight|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/root|-|0|-
+EVENT|40|auto_death_435942741306791_0|First death|event.vanilladaytimecounter.auto.first_death|First death|-|-|0|-
+EVENT|42|auto_advancement_minecraft:story/shiny_gear|Advancement completed: Cubrime de diamantes|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:story/shiny_gear|-|0|-
+EVENT|42|auto_advancement_travelersbackpack:sleeping_bag|Advancement completed: Primeros Pasos|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:sleeping_bag|-|0|-
+MATERIAL|39|minecraft:compass|1
+MATERIAL|39|minecraft:dirt|1
+MATERIAL|40|minecraft:arrow|1
+MATERIAL|40|minecraft:dirt|71
+MATERIAL|41|minecraft:netherite_chestplate|3
+MATERIAL|41|minecraft:potion|39
+MATERIAL|41|minecraft:totem_of_undying|30
+MATERIAL|41|minecraft:oak_log|30
+MATERIAL|41|minecraft:rose_bush|9
+MATERIAL|41|minecraft:rotten_flesh|1
+MATERIAL|41|minecraft:enchanted_golden_apple|4
+MATERIAL|41|minecraft:netherite_leggings|15
+MATERIAL|41|minecraft:glass_bottle|10
+MATERIAL|41|minecraft:stick|3
+MATERIAL|41|minecraft:arrow|2
+MATERIAL|41|minecraft:dirt|144
+MATERIAL|41|minecraft:compass|2
+MATERIAL|42|minecraft:dirt|31
+MATERIAL|42|minecraft:oxeye_daisy|1
+MATERIAL|42|minecraft:poppy|1
+MATERIAL|42|minecraft:netherite_leggings|1
+MATERIAL|42|minecraft:diamond_leggings|1
+MATERIAL|42|minecraft:diamond_chestplate|1
+MATERIAL|42|minecraft:enchanted_golden_apple|1
+MATERIAL|42|minecraft:cobblestone|2
+MATERIAL|42|minecraft:mutton|4
+MATERIAL|42|minecraft:light_gray_wool|1
+MATERIAL|42|minecraft:leaf_litter|24
+MATERIAL|42|minecraft:oak_planks|40
+MATERIAL|42|minecraft:crafting_table|1
+MATERIAL|42|minecraft:stick|7
+MATERIAL|42|minecraft:stone_sword|1
+MATERIAL|42|minecraft:white_wool|3
+MATERIAL|42|minecraft:egg|2
+MATERIAL|42|travelersbackpack:white_sleeping_bag|1
+MATERIAL|42|minecraft:chicken|1
+MATERIAL|42|minecraft:dandelion|1
+MATERIAL|42|minecraft:rotten_flesh|1
+MATERIAL|42|minecraft:totem_of_undying|4
+MATERIAL|42|minecraft:netherite_boots|1
+MATERIAL|42|minecraft:potion|2
+MATERIAL|42|minecraft:netherite_sword|2
+MATERIAL|42|minecraft:milk_bucket|1
+DEATH|40
+ADVANCEMENT|39|farmersdelight:main/get_fd_seed
+ADVANCEMENT|39|minecraft:adventure/root
+ADVANCEMENT|39|betterend:root
+ADVANCEMENT|39|minecraft:adventure/kill_a_mob
+ADVANCEMENT|39|craemon:craftable_elytra
+ADVANCEMENT|39|minecraft:story/mine_stone
+ADVANCEMENT|39|betternether:root
+ADVANCEMENT|39|minecraft:story/root
+ADVANCEMENT|39|create:root
+ADVANCEMENT|39|craemon:main
+ADVANCEMENT|39|travelersbackpack:root
+ADVANCEMENT|39|craemon:crafting
+ADVANCEMENT|39|minecraft:husbandry/root
+ADVANCEMENT|39|minecraft:adventure/sleep_in_bed
+ADVANCEMENT|39|biomesoplenty:biomesoplenty/root
+ADVANCEMENT|39|mca:root
+ADVANCEMENT|39|farmersdelight:main/root
+ADVANCEMENT|42|minecraft:story/shiny_gear
+ADVANCEMENT|42|travelersbackpack:sleeping_bag
+WEATHER|39|0|0
+WEATHER|40|1|0
+WEATHER|41|1|0
+WEATHER|42|0|0

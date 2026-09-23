@@ -8,10 +8,10 @@ toggleSimpleHUDEnhanced = true
 textColor = 16777215
 textBackground = false
 textScale = 100
-textAlignment = "Left"
+textAlignment = "Right"
 
 [statusElements]
-Xcords = 0
+Xcords = 100
 Ycords = 100
 toggleLightLevel = false
 togglePlayerName = false
@@ -41,15 +41,15 @@ toggleBiome = true
 toggleBiomeLabel = true
 
 [statusElements.gameTime]
-toggleGameTime = true
-toggleGameTime24Hour = true
+toggleGameTime = false
+toggleGameTime24Hour = false
 toggleGameDayCounter = false
 
 [statusElements.systemTime]
-toggleSystemTime = true
+toggleSystemTime = false
 textScale = 100
 textBackground = false
-toggleSystemTime24Hour = false
+toggleSystemTime24Hour = true
 
 [statusElements.counters]
 toggleEntityCount = false
@@ -73,10 +73,10 @@ movementStatusLocationX = 0
 movementStatusLocationY = 90
 
 [movementStatus.movementTypes]
-toggleSprintStatus = true
-toggleSneakStatus = true
-toggleFlyingStatus = true
-toggleSwimmingStatus = true
+toggleSprintStatus = false
+toggleSneakStatus = false
+toggleFlyingStatus = false
+toggleSwimmingStatus = false
 
 [paperDoll]
 togglePaperDoll = true

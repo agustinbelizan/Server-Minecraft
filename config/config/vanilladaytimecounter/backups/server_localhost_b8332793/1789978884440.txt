@@ -1,0 +1,34 @@
+VERSION|3
+ERA|overworld|Overworld Era
+ERA|nether|Nether Era
+ERA|end|End Era
+EVENT|16|auto_advancement_betterend:root|Advancement completed: BetterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:root|-|0|-
+EVENT|16|auto_advancement_betternether:root|Advancement completed: BetterNether|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betternether:root|-|0|-
+EVENT|16|auto_advancement_travelersbackpack:root|Advancement completed: Guía de la Mochila del Viajero|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:root|-|0|-
+EVENT|16|auto_advancement_minecraft:lighterend/root|Advancement completed: LighterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:lighterend/root|-|0|-
+EVENT|16|auto_advancement_mca:root|Advancement completed: Minecraft Comes Alive|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|mca:root|-|0|-
+EVENT|16|auto_advancement_biomesoplenty:biomesoplenty/root|Advancement completed: Biomes O' Plenty|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|biomesoplenty:biomesoplenty/root|-|0|-
+EVENT|16|auto_advancement_create:root|Advancement completed: Welcome to Create|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|create:root|-|0|-
+EVENT|16|auto_advancement_farmersdelight:main/root|Advancement completed: Farmer's Delight|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/root|-|0|-
+EVENT|17|auto_death_341405754305666_0|First death|event.vanilladaytimecounter.auto.first_death|First death|-|-|0|-
+EVENT|17|auto_advancement_minecraft:adventure/root|Advancement completed: Aventura|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:adventure/root|-|0|-
+MATERIAL|16|mca:book_romance|1
+MATERIAL|17|minecraft:wheat_seeds|1
+MATERIAL|17|minecraft:hay_block|1
+MATERIAL|17|minecraft:compass|1
+DEATH|17
+ADVANCEMENT|16|betterend:root
+ADVANCEMENT|16|betternether:root
+ADVANCEMENT|16|travelersbackpack:root
+ADVANCEMENT|16|minecraft:lighterend/root
+ADVANCEMENT|16|mca:root
+ADVANCEMENT|16|biomesoplenty:biomesoplenty/root
+ADVANCEMENT|16|create:root
+ADVANCEMENT|16|farmersdelight:main/root
+ADVANCEMENT|17|minecraft:adventure/root
+WEATHER|16|0|0
+WEATHER|17|1|0
+WEATHER|18|0|0
+WEATHER|19|0|0
+WEATHER|20|0|0
+WEATHER|21|0|0

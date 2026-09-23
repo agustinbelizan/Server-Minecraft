@@ -1,0 +1,38 @@
+VERSION|3
+ERA|overworld|Overworld Era
+ERA|nether|Nether Era
+ERA|end|End Era
+EVENT|0|auto_advancement_betterend:root|Advancement completed: BetterEnd|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betterend:root|-|0|-
+EVENT|0|auto_advancement_betternether:root|Advancement completed: BetterNether|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|betternether:root|-|0|-
+EVENT|0|auto_advancement_travelersbackpack:root|Advancement completed: Traveler's Backpack Guide|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|travelersbackpack:root|-|0|-
+EVENT|0|auto_advancement_craemon:craftable_elytra|Advancement completed: Craftable Elytra|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|craemon:craftable_elytra|-|0|-
+EVENT|0|auto_advancement_craemon:crafting|Advancement completed: Crafting|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|craemon:crafting|-|0|-
+EVENT|0|auto_advancement_craemon:main|Advancement completed: Craemon's Datapacks|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|craemon:main|-|0|-
+EVENT|0|auto_advancement_mca:root|Advancement completed: Minecraft Comes Alive|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|mca:root|-|0|-
+EVENT|0|auto_advancement_create:root|Advancement completed: Welcome to Create|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|create:root|-|0|-
+EVENT|0|auto_advancement_farmersdelight:main/root|Advancement completed: Farmer's Delight|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|farmersdelight:main/root|-|0|-
+EVENT|0|auto_advancement_minecraft:story/root|Advancement completed: Minecraft|event.vanilladaytimecounter.auto.advancement|Advancement completed: %s|minecraft:story/root|-|0|-
+MATERIAL|0|mca:book_romance|2
+MATERIAL|0|minecraft:dirt|2
+MATERIAL|0|minecraft:acacia_planks|2
+MATERIAL|0|minecraft:oak_log|6
+MATERIAL|0|minecraft:oak_planks|24
+MATERIAL|0|minecraft:crafting_table|2
+MATERIAL|0|minecraft:poppy|1
+MATERIAL|0|minecraft:wheat_seeds|1
+MATERIAL|0|minecraft:armadillo_scute|1
+MATERIAL|0|minecraft:oak_sapling|1
+ADVANCEMENT|0|betterend:root
+ADVANCEMENT|0|betternether:root
+ADVANCEMENT|0|travelersbackpack:root
+ADVANCEMENT|0|craemon:craftable_elytra
+ADVANCEMENT|0|craemon:crafting
+ADVANCEMENT|0|craemon:main
+ADVANCEMENT|0|mca:root
+ADVANCEMENT|0|create:root
+ADVANCEMENT|0|farmersdelight:main/root
+ADVANCEMENT|0|minecraft:story/root
+PHOTO|0|-1322.0571684318322|80.0|-812.7518832184793|overworld|photo_0_432789251570041.png||
+PHOTO|0|-1322.0571684318322|80.0|-812.7518832184793|overworld|photo_0_432790251383208.png||
+PHOTO|0|-1322.0571684318322|80.0|-812.7518832184793|overworld|photo_0_432889581040291.png||
+WEATHER|0|0|0

@@ -1,0 +1,13 @@
+name = "Back To Greece"
+filename = "backtogreece-fabric-0.33-26.1.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c83568414252ca3cb1541476eb172548d0e3ae6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8861865
+project-id = 1628658

@@ -1042,6 +1042,11 @@ file = "mods/WI-Zoom-1.7-MC26.1.2.jar"
 hash = "33981c927fcf4b823c7144281cd48693ef17b214f7bf19f97df4cc265da39784"
 
 [[files]]
+file = "mods/ancient-remnants.pw.toml"
+hash = "c625ee38494745388ab54bf810a4cb198a7ba42e93928018ff5e9865e647ef31"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
@@ -1049,6 +1054,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "753942de18dbd1681d5568a796e8a7b4e9057f2c74eb3630e685b1227245d03e"
+metafile = true
+
+[[files]]
+file = "mods/back-to-greece.pw.toml"
+hash = "dee380fafecca9c87b9dad40a9954280d604f1f584e839b07aa5b41e7f8b75a8"
 metafile = true
 
 [[files]]
@@ -1153,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
+hash = "c948304627e6b7ad250567c89655ad341362de53df5b82a76093b5225cfb9696"
 metafile = true
 
 [[files]]
@@ -1176,6 +1186,11 @@ file = "mods/fragmentum-fabric-26.1-4.0.5.jar"
 hash = "a778a783eef97aba45c52688463e58b15eef3dec428687225187ccbb0ef8b005"
 
 [[files]]
+file = "mods/fragmentum-fabric.pw.toml"
+hash = "ae57fc941880bc5f52a4c8c3dc62c3234bc5ff10d4d2409d1d06d3b4efca138e"
+metafile = true
+
+[[files]]
 file = "mods/fwa.pw.toml"
 hash = "fc910c5af48d70b58c92bedeaf42e9164c302ef60ad56ecd8bb008dd97e2948b"
 metafile = true
@@ -1193,11 +1208,6 @@ metafile = true
 [[files]]
 file = "mods/grim-kingdoms-lost-structures-ruins-vanilla-edition.pw.toml"
 hash = "2cd1e07e6bf5c61418479d4e6fb265393b17d3a75be84f62175bff5fac166d6e"
-metafile = true
-
-[[files]]
-file = "mods/hollowsteve.pw.toml"
-hash = "0fd95c42e153e0a793cfd4e40e877a990ab621caa2dcb6e164d7f82aef0ae90b"
 metafile = true
 
 [[files]]
@@ -1402,6 +1412,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "ffc1800542db2eacddf11636e58b7f2b7efd8920fc24e07c00ca06af92813ac1"
+metafile = true
+
+[[files]]
+file = "mods/useless-reptile.pw.toml"
+hash = "596a2dd3c9a446938960d996e5d93872ae6fc1ef071b6324c44a68d13d4c7eb0"
 metafile = true
 
 [[files]]

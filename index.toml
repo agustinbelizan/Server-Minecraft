@@ -1057,11 +1057,6 @@ hash = "753942de18dbd1681d5568a796e8a7b4e9057f2c74eb3630e685b1227245d03e"
 metafile = true
 
 [[files]]
-file = "mods/back-to-greece.pw.toml"
-hash = "dee380fafecca9c87b9dad40a9954280d604f1f584e839b07aa5b41e7f8b75a8"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "a09a052f05d87f19e76342ce70775f227dc62c0504d98bed8178d5af5c3a1527"
 metafile = true

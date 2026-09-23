@@ -1,0 +1,13 @@
+name = "BetterEndCities"
+filename = "betterendcities-1_1_0-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5rKQiKoM/versions/ejMbFdjQ/betterendcities-1_1_0-26.1.2.jar"
+hash-format = "sha512"
+hash = "ff90474b63c5e8c02ef0313706f3a277d186745a323b2df28dd3a260acb08eb3a77d5210459de92b39acc5f752f264b02b1fd3c3ccd2e327da7455b9814f1c2c"
+
+[update]
+[update.modrinth]
+mod-id = "5rKQiKoM"
+version = "ejMbFdjQ"
